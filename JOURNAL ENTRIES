@@ -1,0 +1,15 @@
+WEEK 1:
+Topic: Large Language Models & Vector Databases (Introduction)
+Work Done: Collected academic documents and designed system architecture for UniZen academic assistant.
+Outcome: Prepared domain-specific knowledge base and defined system workflow.
+
+
+WEEK 2:
+Topic: Large Language Models and Vector Databases
+Work Done: Studied core concepts and documented how LLMs and vector databases will be used in the UniZen academic assistant. Created initial project modules.
+Outcome: Clear conceptual understanding of system components and data flow.
+
+WEEK 3:
+Topic: Document Processing
+Work Done: Implemented basic document loading functionality to read academic text files.
+Outcome: Prepared the foundation for storing and processing academic documents.
