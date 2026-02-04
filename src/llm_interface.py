@@ -1,4 +1,4 @@
-# This module will interact with the language model to generate responses
+# This module will interact with the language model to generate good responses
 def generate_answer(context, question):
     """
     Generates an answer based on retrieved context.
