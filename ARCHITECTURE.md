@@ -13,6 +13,8 @@ The system follows a step-by-step pipeline to ensure accuracy, simplicity, and c
 5. Retrieved text is divided into smaller chunks to improve relevance during search.
 6. Structured text chunks are prepared for storage and retrieval.
 7. Text chunks are stored along with their source document for traceability.
+8. User queries are matched with stored text chunks using basic similarity logic.
+
 
 ## Design Principles
 
