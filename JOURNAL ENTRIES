@@ -23,3 +23,8 @@ WEEK 5:
 Topic: Vector Databases (Conceptual)
 Work Done: Implemented structured storage of academic text chunks along with their source documents.
 Outcome: Prepared the foundation for similarity-based retrieval in later stages.
+
+WEEK 6:
+Topic: Similarity Search
+Work Done: Implemented basic similarity matching between user queries and academic text chunks using word overlap.
+Outcome: Enabled retrieval of relevant academic content for answering student queries.
