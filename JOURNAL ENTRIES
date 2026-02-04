@@ -13,3 +13,13 @@ WEEK 3:
 Topic: Document Processing
 Work Done: Implemented basic document loading functionality to read academic text files.
 Outcome: Prepared the foundation for storing and processing academic documents.
+
+WEEK 4:
+Topic: Text Chunking
+Work Done: Implemented text chunking to divide academic documents into smaller, manageable segments.
+Outcome: Improved document structure for efficient retrieval in later stages.
+
+WEEK 5:
+Topic: Vector Databases (Conceptual)
+Work Done: Implemented structured storage of academic text chunks along with their source documents.
+Outcome: Prepared the foundation for similarity-based retrieval in later stages.
