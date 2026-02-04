@@ -14,6 +14,8 @@ The system follows a step-by-step pipeline to ensure accuracy, simplicity, and c
 6. Structured text chunks are prepared for storage and retrieval.
 7. Text chunks are stored along with their source document for traceability.
 8. User queries are matched with stored text chunks using basic similarity logic.
+9. Retrieved academic content is used to generate clear, natural-language answers for students.
+
 
 
 ## Design Principles
