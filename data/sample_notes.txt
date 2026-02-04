@@ -1,3 +1,1 @@
-Operating Systems is a core subject in computer science.
-It deals with process management, memory management, and file systems.
-Round Robin is a CPU scheduling algorithm.
+
