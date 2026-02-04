@@ -12,6 +12,7 @@ The system follows a step-by-step pipeline to ensure accuracy, simplicity, and c
 4. The processed text is divided into smaller, meaningful chunks.
 5. Retrieved text is divided into smaller chunks to improve relevance during search.
 6. Structured text chunks are prepared for storage and retrieval.
+7. Text chunks are stored along with their source document for traceability.
 
 ## Design Principles
 
