@@ -33,3 +33,8 @@ WEEK 7:
 Topic: Large Language Models (Conceptual Integration)
 Work Done: Implemented an answer generation interface that produces student-friendly responses using retrieved academic content.
 Outcome: Enabled UniZen to generate meaningful academic answers.
+
+WEEK 8:
+Topic: System Integration
+Work Done: Integrated document retrieval and answer generation modules into a single application flow.
+Outcome: Enabled end-to-end academic question answering in UniZen.
