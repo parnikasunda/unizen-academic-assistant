@@ -4,8 +4,10 @@ from llm_interface import generate_answer
 
 st.title("UniZen — Academic Assistant")
 
+# Initialize vector store
 store = SimpleVectorStore()
 
+# Sample NLP knowledge chunks
 store.add_chunk(
     1,
     "Tokenization is the process of breaking text into words or subwords in NLP.",
@@ -22,14 +24,16 @@ store.add_chunk(
     "nlp_lecture_3.pdf"
 )
 
-question = st.text_input("Ask a question about NLP")
+# User input
+question = st.text_input("Ask a question about NLP:")
 
 if question:
     result = store.search(question)
+
     if result:
         answer = generate_answer(result["text"], question)
         st.subheader("Answer")
         st.write(answer)
         st.caption(f"Source: {result['source']}")
     else:
-        st.write("No relevant information found.")
+        st.write("Sorry, no relevant information found.")
