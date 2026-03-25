@@ -38,3 +38,8 @@ WEEK 8:
 Topic: System Integration
 Work Done: Integrated document retrieval and answer generation modules into a single application flow.
 Outcome: Enabled end-to-end academic question answering in UniZen.
+
+WEEK 9:
+Topic: User Interface & System Testing
+Work Done: Developed a user-friendly interface using Streamlit and tested the complete system with different academic queries. 
+Outcome: Successfully created an interactive application and ensured the system works smoothly for end-to-end academic question answering.
